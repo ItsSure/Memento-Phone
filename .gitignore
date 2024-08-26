@@ -1,14 +1,43 @@
+# Node modules
 node_modules/
+
+# Expo
 .expo/
+.expo-shared/
+
+# Build output
 dist/
+web-build/
+build/
+out/
+
+# Logs
 npm-debug.*
+*.log
+
+# Key files
 *.jks
 *.p8
 *.p12
 *.key
 *.mobileprovision
+
+# Temporary files
+*.tmp
 *.orig.*
 web-build/
 
-# macOS
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-specific files
 .DS_Store
+Thumbs.db
+
+# Optional: if using Expo managed workflow
+android/
+ios/

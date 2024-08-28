@@ -10,7 +10,7 @@ export default function HomeScreen() {
   const date = useZustand((state: any) => state.date);
   const setDate = useZustand((state: any) => state.setDate);
   const loadDate = useZustand((state: any) => state.loadDate);
-  //const resetDate = useZustand((state: any) => state.resetDate);
+  // const resetDate = useZustand((state: any) => state.resetDate);
 
   const router = useRouter();
 
@@ -39,6 +39,7 @@ export default function HomeScreen() {
           displayFullDays={true}
         />
       </View>
+      {/* <Button title={"3-Button Alert"} onPress={resetDate} /> */}
     </SafeAreaView>
   );
 }

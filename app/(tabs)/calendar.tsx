@@ -1,4 +1,4 @@
-import { View, Text, ScrollView } from "react-native";
+import { View, Text, ScrollView, Alert, Button } from "react-native";
 import { ThemedText } from "@/components/ThemedText";
 import { useEffect, useState } from "react";
 import { styled } from "nativewind";
@@ -33,6 +33,7 @@ export default function TabTwoScreen() {
   useFocusEffect(
     React.useCallback(() => {
       if (date == null) {
+        createThreeButtonAlert();
         router.replace("/" as Href); // Redirige a "index" si no hay fecha
       }
     }, [date])
@@ -88,11 +89,20 @@ export default function TabTwoScreen() {
     return rectDiv;
   }
 
+  const createThreeButtonAlert = () =>
+    Alert.alert(
+      "Date Required",
+      "Please enter a date before accessing the calendar.",
+      [{ text: "OK", onPress: () => console.log("OK Pressed") }],
+      { cancelable: true, userInterfaceStyle: "dark" }
+    );
+
   return (
     <SafeAreaView className="flex-1">
       <ThemedText className="mt-5" type="title">
         Memento Mori
       </ThemedText>
+      {/* <Button title={"3-Button Alert"} onPress={createThreeButtonAlert} /> */}
       <ScrollView>
         <CalendarContainer className="mb-5">{calendar}</CalendarContainer>
       </ScrollView>

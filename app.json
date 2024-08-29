@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "memento mori",
+    "name": "Memento Mori",
     "slug": "memento-phone",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/Frame2.png",
-    "scheme": "myapp",
+    "scheme": "memento",
     "userInterfaceStyle": "dark",
     "splash": {
       "image": "./assets/images/Frame2.png",
@@ -17,7 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/Frame2.png",
+        "foregroundImage": "./assets/images/Frame3.png",
         "backgroundColor": "#000000"
       },
       "package": "com.itssure.mementophone"

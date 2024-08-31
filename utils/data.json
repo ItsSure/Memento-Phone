@@ -1,22 +1,37 @@
 [
   {
     "title": "1",
-    "description": "It is important to remember that if we don’t use our time today, we might not be able to use it tomorrow."
+    "description": {
+      "EN": "It is important to remember that if we don’t use our time today, we might not be able to use it tomorrow.",
+      "ES": "Es importante recordar que si hoy no usamos nuestro tiempo, quizás mañana no podamos emplearlo."
+    }
   },
   {
     "title": "2",
-    "description": "Time is limited and precious. How do you want to spend it?"
+    "description": {
+      "EN": "Time is limited and precious. How do you want to spend it?.",
+      "ES": "El tiempo es limitado y precioso. ¿Cómo quieres gastarlo?"
+    }
   },
   {
     "title": "3",
-    "description": "Every day, the universe rolls the dice for each person; and every day, there is someone, somewhere on the planet, who faces a critical failure and dies that day."
+    "description": {
+      "EN": "Every day, the universe rolls the dice for each person; and every day, there is someone, somewhere on the planet, who faces a critical failure and dies that day.",
+      "ES": "Todos los días, el universo tira los dados para cada humano; y todos los días, hay alguien, en algún lugar del planeta, a quien le toca un fallo crítico y muere ese día."
+    }
   },
   {
     "title": "4",
-    "description": "If we save all the fun for when we retire, we might end up with a bitter disappointment."
+    "description": {
+      "EN": "If we save all the fun for when we retire, we might end up with a bitter disappointment.",
+      "ES": "Si guardamos toda la diversión para cuando nos jubilemos, es posible que nos llevemos una amarga decepción."
+    }
   },
   {
     "title": "5",
-    "description": "Typically, while swimming through the ocean of life, we hardly reflect on all of this, and that’s okay; life demands a lot of participation."
+    "description": {
+      "EN": "Typically, while swimming through the ocean of life, we hardly reflect on all of this, and that’s okay; life demands a lot of participation.",
+      "ES": "Habitualmente, al nadar por el océano de la vida, apenas reflexionamos sobre todo esto, y está bien; la vida exige mucha participación."
+    }
   }
 ]

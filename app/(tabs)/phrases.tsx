@@ -7,7 +7,8 @@ import { useFetch } from "../../hooks/useFetch";
 
 export default function TabThreeScreen() {
   const { data, loading, error, handleCancelRequest } = useFetch(
-    "https://raw.githubusercontent.com/ItsSure/Memento-Phone/master/utils/data.json"
+    "https://raw.githubusercontent.com/ItsSure/Memento-Phone/master/utils/data.json",
+    "phrases"
   );
   return (
     <SafeAreaView className="flex-1">

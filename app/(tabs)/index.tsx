@@ -31,6 +31,9 @@ export default function HomeScreen() {
         Memento Mori
       </ThemedText>
       <View className="bg-[#0A0A0A] border border-[#333] rounded-lg p-2">
+        <ThemedText className="pb-2 border-b border-[#333]" type="subtitle">
+          Please enter your date of birth
+        </ThemedText>
         <DateTimePicker
           mode="single"
           date={new Date()}

@@ -1,20 +1,23 @@
 [
   {
     "title": "1",
+    "author": "Autor desconocido",
     "description": {
-      "EN": "It is important to remember that if we don’t use our time today, we might not be able to use it tomorrow.",
+      "EN": "It is important to remember that if we don't use our time today, we might not be able to use it tomorrow.",
       "ES": "Es importante recordar que si hoy no usamos nuestro tiempo, quizás mañana no podamos emplearlo."
     }
   },
   {
     "title": "2",
+    "author": "Autor desconocido",
     "description": {
-      "EN": "Time is limited and precious. How do you want to spend it?.",
+      "EN": "Time is limited and precious. How do you want to spend it?",
       "ES": "El tiempo es limitado y precioso. ¿Cómo quieres gastarlo?"
     }
   },
   {
     "title": "3",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Every day, the universe rolls the dice for each person; and every day, there is someone, somewhere on the planet, who faces a critical failure and dies that day.",
       "ES": "Todos los días, el universo tira los dados para cada humano; y todos los días, hay alguien, en algún lugar del planeta, a quien le toca un fallo crítico y muere ese día."
@@ -22,6 +25,7 @@
   },
   {
     "title": "4",
+    "author": "Autor desconocido",
     "description": {
       "EN": "If we save all the fun for when we retire, we might end up with a bitter disappointment.",
       "ES": "Si guardamos toda la diversión para cuando nos jubilemos, es posible que nos llevemos una amarga decepción."
@@ -29,13 +33,15 @@
   },
   {
     "title": "5",
+    "author": "Autor desconocido",
     "description": {
-      "EN": "Typically, while swimming through the ocean of life, we hardly reflect on all of this, and that’s okay; life demands a lot of participation.",
+      "EN": "Typically, while swimming through the ocean of life, we hardly reflect on all of this, and that's okay; life demands a lot of participation.",
       "ES": "Habitualmente, al nadar por el océano de la vida, apenas reflexionamos sobre todo esto, y está bien; la vida exige mucha participación."
     }
   },
   {
     "title": "6",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Don't bury your talent. Your numbered days deserve to be filled with your best work.",
       "ES": "No entierres tu talento. Tus días contados merecen ser llenados con tu mejor obra."
@@ -43,6 +49,7 @@
   },
   {
     "title": "7",
+    "author": "Proverbio japonés",
     "description": {
       "EN": "Death is not the opposite of life, but the doorway to it.",
       "ES": "La muerte no es lo opuesto a la vida, sino la puerta a ella."
@@ -50,6 +57,7 @@
   },
   {
     "title": "8",
+    "author": "Séneca",
     "description": {
       "EN": "Life is measured in moments, not minutes. Live each one as if it were the last.",
       "ES": "La vida se mide en momentos, no en minutos. Vive cada uno como si fuera el último."
@@ -57,6 +65,7 @@
   },
   {
     "title": "9",
+    "author": "Friedrich Nietzsche",
     "description": {
       "EN": "He who has a why to live can bear almost any how.",
       "ES": "Quien tiene un porqué para vivir puede soportar casi cualquier cómo."
@@ -64,6 +73,7 @@
   },
   {
     "title": "10",
+    "author": "Sócrates",
     "description": {
       "EN": "Do not be ashamed to die. A peaceful death awaits those who have lived well.",
       "ES": "No te avergüences de morir. Al que ha vivido bien le espera una muerte tranquila."
@@ -71,6 +81,7 @@
   },
   {
     "title": "11",
+    "author": "Viktor Frankl",
     "description": {
       "EN": "The best way to overcome the fear of death is to live a life of purpose.",
       "ES": "La mejor forma de vencer el miedo a la muerte es vivir una vida con propósito."
@@ -78,6 +89,7 @@
   },
   {
     "title": "12",
+    "author": "Marco Aurelio",
     "description": {
       "EN": "Memento mori: remember that you will die. And because of that, remember that you live.",
       "ES": "Memento mori: recuerda que morirás. Y por eso, recuerda que vives."
@@ -85,6 +97,7 @@
   },
   {
     "title": "13",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Don't die without having lived. Don't leave for tomorrow what you can live today.",
       "ES": "No mueras sin haber vivido. No dejes para mañana lo que puedes vivir hoy."
@@ -92,6 +105,7 @@
   },
   {
     "title": "14",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Life is fleeting like the dew. Treat it as if every drop were a treasure.",
       "ES": "La vida es efímera como el rocío. Trátala como si cada gota fuera un tesoro."
@@ -99,6 +113,7 @@
   },
   {
     "title": "15",
+    "author": "Marco Aurelio",
     "description": {
       "EN": "What we do in life echoes in eternity.",
       "ES": "Lo que hacemos en vida resuena en la eternidad."
@@ -106,6 +121,7 @@
   },
   {
     "title": "16",
+    "author": "Steve Jobs",
     "description": {
       "EN": "Your time is limited, don't waste it living someone else's life.",
       "ES": "Tu tiempo es limitado, no lo malgastes viviendo la vida de otros."
@@ -113,6 +129,7 @@
   },
   {
     "title": "17",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Death is the only certainty in life. Use it as fuel.",
       "ES": "La muerte es la única certeza de la vida. Úsala como combustible."
@@ -120,6 +137,7 @@
   },
   {
     "title": "18",
+    "author": "Proverbio irlandés",
     "description": {
       "EN": "The man who dies with rich experiences has no fear of dying.",
       "ES": "El hombre que muere con experiencias ricas no tiene miedo de morir."
@@ -127,6 +145,7 @@
   },
   {
     "title": "19",
+    "author": "Autor desconocido",
     "description": {
       "EN": "The goal of life is not to be on the safe side. It is to cross the vibrant field.",
       "ES": "El objetivo de la vida no es estar en el lado seguro. Es cruzar el campo vibrante."
@@ -134,6 +153,7 @@
   },
   {
     "title": "20",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Every morning we have 24 hours more than we'll ever have again. Use today wisely.",
       "ES": "Cada mañana tenemos 24 horas más que nunca tendremos. Usa hoy sabiamente."
@@ -141,6 +161,7 @@
   },
   {
     "title": "21",
+    "author": "Marco Aurelio",
     "description": {
       "EN": "Don't live as if you were going to live a thousand years. Death lurks over you. While you live, while it is possible, be good.",
       "ES": "No vivas como si fueras a vivir mil años. La muerte ronda sobre ti. Mientras vivas, mientras te sea posible, sé bueno."
@@ -148,6 +169,7 @@
   },
   {
     "title": "22",
+    "author": "Séneca",
     "description": {
       "EN": "The brevity of life is not an obstacle, it is the reason to act with urgency.",
       "ES": "La brevedad de la vida no es un obstáculo, es la razón para actuar con urgencia."
@@ -155,6 +177,7 @@
   },
   {
     "title": "23",
+    "author": "Séneca",
     "description": {
       "EN": "It's not that we have little time, it's that we waste a lot of it.",
       "ES": "No es que tengamos poco tiempo, es que malgastamos mucho."
@@ -162,6 +185,7 @@
   },
   {
     "title": "24",
+    "author": "Séneca",
     "description": {
       "EN": "Meditate on death every day. Then you will never think of anything that is not essential.",
       "ES": "Medita sobre la muerte cada día. Entonces nunca pensarás en nada que no sea lo esencial."
@@ -169,6 +193,7 @@
   },
   {
     "title": "25",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Life is a sigh between two silences.",
       "ES": "La vida es un suspiro entre dos silencios."
@@ -176,6 +201,7 @@
   },
   {
     "title": "26",
+    "author": "Proverbio chino",
     "description": {
       "EN": "Live in such a way that you have no fear of death.",
       "ES": "Vive de tal manera que no tengas miedo de morir."
@@ -183,6 +209,7 @@
   },
   {
     "title": "27",
+    "author": "Autor desconocido",
     "description": {
       "EN": "What can be imagined can be created. Life is only once, don't waste it.",
       "ES": "Lo que puede imaginarse puede crearse. La vida es una sola, no la desperdicies."
@@ -190,6 +217,7 @@
   },
   {
     "title": "28",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Death is inevitable. Living, however, is a choice.",
       "ES": "La muerte es inevitable. Vivir, sin embargo, es una elección."
@@ -197,6 +225,7 @@
   },
   {
     "title": "29",
+    "author": "Autor desconocido",
     "description": {
       "EN": "If death finds you today, will you have lived enough?",
       "ES": "Si la muerte te encuentra hoy, ¿habrás vivido lo suficiente?"
@@ -204,6 +233,7 @@
   },
   {
     "title": "30",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Time is your most valuable resource. Once spent, there's no way to recover it.",
       "ES": "El tiempo es tu recurso más valioso. Una vez gastado, no hay forma de recuperarlo."
@@ -211,6 +241,7 @@
   },
   {
     "title": "31",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Do today what others don't so you can live tomorrow as others can't.",
       "ES": "Haz hoy lo que otros no hacen para vivir mañana como otros no pueden."
@@ -218,6 +249,7 @@
   },
   {
     "title": "32",
+    "author": "Benjamín Franklin",
     "description": {
       "EN": "Don't leave for tomorrow what you can live today. Tomorrow may be too late.",
       "ES": "No dejes para mañana lo que puedas vivir hoy. Mañana puede ser demasiado tarde."
@@ -225,6 +257,7 @@
   },
   {
     "title": "33",
+    "author": "Sócrates",
     "description": {
       "EN": "Death is not the greatest of evils. It is worse to live when you should have died.",
       "ES": "La muerte no es el mayor de los males. Es peor vivir cuando deberías haber muerto."
@@ -232,6 +265,7 @@
   },
   {
     "title": "34",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Remembering you will die is the best guide you can have to decide what is worth it.",
       "ES": "Recuerda que morirás es la mejor guía que puedes tener para decidir qué vale la pena."
@@ -239,6 +273,7 @@
   },
   {
     "title": "35",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Life is a curious event. No one realizes how valuable it is until it's gone.",
       "ES": "La vida es un evento curioso. Nadie se da cuenta de lo valiosa que es hasta que se va."
@@ -246,6 +281,7 @@
   },
   {
     "title": "36",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Tell me what you do with your time and I'll tell you who you are.",
       "ES": "Dime qué haces con tu tiempo y te diré quién eres."
@@ -253,6 +289,7 @@
   },
   {
     "title": "37",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Every second counts. There is no time to waste on insignificant things.",
       "ES": "Cada segundo cuenta. No hay tiempo que perder con cosas insignificantes."
@@ -260,6 +297,7 @@
   },
   {
     "title": "38",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Life is too short to hate. Live, love, laugh and leave a mark.",
       "ES": "La vida es demasiado corta para odiar. Vive, ama, ríe y deja una huella."
@@ -267,6 +305,7 @@
   },
   {
     "title": "39",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Death is the great equalizer. Make sure that when it comes, you have lived.",
       "ES": "La muerte es el único igualador. Asegúrate de que cuando llegue, hayas vivido."
@@ -274,6 +313,7 @@
   },
   {
     "title": "40",
+    "author": "Ralph Waldo Emerson",
     "description": {
       "EN": "What matters is not the duration of life, but its depth.",
       "ES": "Lo que importa no es la duración de la vida, sino su profundidad."
@@ -281,6 +321,7 @@
   },
   {
     "title": "41",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Don't live so the world remembers you existed. Live so your family remembers who you were.",
       "ES": "No vivas para que el mundo recuerde que exististe. Vive para que tu familia recuerde quién eras."
@@ -288,6 +329,7 @@
   },
   {
     "title": "42",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Simplicity is the ultimate sophistication. The same applies to life.",
       "ES": "La simplicidad es la sofisticación suprema. Lo mismo aplica a la vida."
@@ -295,6 +337,7 @@
   },
   {
     "title": "43",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Life is a collection of moments. Make sure yours count.",
       "ES": "La vida es una colección de momentos. Asegúrate de que los tuyos cuenten."
@@ -302,6 +345,7 @@
   },
   {
     "title": "44",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Learn to live as if you were already dead. Then you will know how to live.",
       "ES": "Aprende a vivir como si ya hubieras muerto. Entonces sabrás cómo vivir."
@@ -309,6 +353,7 @@
   },
   {
     "title": "45",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Don't waste time on things that don't bring you closer to your best self.",
       "ES": "No pierdas tiempo en cosas que no te acercan a tu mejor versión."
@@ -316,6 +361,7 @@
   },
   {
     "title": "46",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Death is life's teacher. Only she can teach us how to live.",
       "ES": "La muerte es la maestra de la vida. Solo ella puede enseñarnos a vivir."
@@ -323,6 +369,7 @@
   },
   {
     "title": "47",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Every day is a gift. Don't waste it wrapped in worries.",
       "ES": "Cada día es un regalo. No lo desperdicies envuelto en preocupaciones."
@@ -330,6 +377,7 @@
   },
   {
     "title": "48",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Life is too short to be shy. Get out there and do it.",
       "ES": "La vida es demasiado corta para ser tímido. Sal y hazlo."
@@ -337,6 +385,7 @@
   },
   {
     "title": "49",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Time doesn't stop for anyone. Don't get left behind.",
       "ES": "El tiempo no se detiene por nadie. No te quedes atrás."
@@ -344,6 +393,7 @@
   },
   {
     "title": "50",
+    "author": "Steve Jobs",
     "description": {
       "EN": "Live as if it were the last day. You never know if it is.",
       "ES": "Vive como si fuera el último día. Nunca sabes si lo es."
@@ -351,6 +401,7 @@
   },
   {
     "title": "51",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Life goes on being lived. There is no time for regrets.",
       "ES": "La vida se va viviendo. No hay tiempo para arrepentimientos."
@@ -358,6 +409,7 @@
   },
   {
     "title": "52",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Death is the only certainty. Everything else is uncertainty. Make the most of it.",
       "ES": "La muerte es la única certeza. Todo lo demás es incertidumbre. Aprovecha."
@@ -365,6 +417,7 @@
   },
   {
     "title": "53",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Don't die with music inside you. Let it out.",
       "ES": "No mueras con música dentro de ti. Deja que salga."
@@ -372,6 +425,7 @@
   },
   {
     "title": "54",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Life is not about how many breaths you take, but about how many moments take your breath away.",
       "ES": "La vida no se trata de cuántos respiras, sino de cuántos momentos te dejan sin aliento."
@@ -379,6 +433,7 @@
   },
   {
     "title": "55",
+    "author": "Charlie Chaplin",
     "description": {
       "EN": "A day without laughter is a day wasted.",
       "ES": "Un día sin reír es un día perdido."
@@ -386,6 +441,7 @@
   },
   {
     "title": "56",
+    "author": "Albert Einstein",
     "description": {
       "EN": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
       "ES": "La vida es como montar en bicicleta. Para mantener el equilibrio, hay que seguir adelante."
@@ -393,6 +449,7 @@
   },
   {
     "title": "57",
+    "author": "Autor desconocido",
     "description": {
       "EN": "The secret of life is having no fear. You must learn to be afraid of nothing.",
       "ES": "El secreto de la vida es no tener miedo. Debes aprender a no tener miedo a nada."
@@ -400,6 +457,7 @@
   },
   {
     "title": "58",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Death is not the end. It's a beginning. A beginning of something new.",
       "ES": "La muerte no es el final. Es un comienzo. Un comienzo de algo nuevo."
@@ -407,6 +465,7 @@
   },
   {
     "title": "59",
+    "author": "Proverbio chino",
     "description": {
       "EN": "Don't be afraid of moving slowly. Be afraid of standing still.",
       "ES": "No tengas miedo de avanzar despacio. Ten miedo de quedarte quieto."
@@ -414,6 +473,7 @@
   },
   {
     "title": "60",
+    "author": "Helen Keller",
     "description": {
       "EN": "Life is either a daring adventure or nothing.",
       "ES": "La vida es una aventura audaz o nada."
@@ -421,6 +481,7 @@
   },
   {
     "title": "61",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Every sunrise is an invitation to shine. Don't waste it.",
       "ES": "Cada amanecer es una invitación a brillar. No la desaproveches."
@@ -428,6 +489,7 @@
   },
   {
     "title": "62",
+    "author": "John Lennon",
     "description": {
       "EN": "The time you enjoy wasting is not wasted time.",
       "ES": "El tiempo que disfrutas perdiendo no es tiempo perdido."
@@ -435,6 +497,7 @@
   },
   {
     "title": "63",
+    "author": "Mahatma Gandhi",
     "description": {
       "EN": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
       "ES": "Vive como si mañana fueras a morir. Aprende como si fueras a vivir siempre."
@@ -442,6 +505,7 @@
   },
   {
     "title": "64",
+    "author": "Autor desconocido",
     "description": {
       "EN": "It is not life that matters, but the courage you bring to it.",
       "ES": "No es la vida lo que importa, sino el coraje que le das."
@@ -449,6 +513,7 @@
   },
   {
     "title": "65",
+    "author": "Charles R. Swindoll",
     "description": {
       "EN": "Life is 10% what happens to you and 90% how you react.",
       "ES": "La vida es un 10% lo que te pasa y un 90% cómo reaccionas."
@@ -456,6 +521,7 @@
   },
   {
     "title": "66",
+    "author": "Autor desconocido",
     "description": {
       "EN": "What hurts now will be your strength tomorrow.",
       "ES": "Lo que duele ahora será tu fuerza mañana."
@@ -463,6 +529,7 @@
   },
   {
     "title": "67",
+    "author": "Proverbio",
     "description": {
       "EN": "We are born with clenched fists and die with open hands.",
       "ES": "Nacemos con los puños cerrados y morimos con las manos abiertas."
@@ -470,6 +537,7 @@
   },
   {
     "title": "68",
+    "author": "Confucio",
     "description": {
       "EN": "It doesn't matter how slow you go, as long as you don't stop.",
       "ES": "No importa lo lento que vayas, siempre y cuando no te detengas."
@@ -477,6 +545,7 @@
   },
   {
     "title": "69",
+    "author": "John Lennon",
     "description": {
       "EN": "Life is what happens while you are busy making other plans.",
       "ES": "La vida es lo que pasa mientras estás ocupado haciendo otros planes."
@@ -484,6 +553,7 @@
   },
   {
     "title": "70",
+    "author": "Autor desconocido",
     "description": {
       "EN": "The greatest risk is to take no risk in a world that is changing faster and faster.",
       "ES": "El mayor riesgo es no correr ningún riesgo en un mundo que cambia cada vez más rápido."
@@ -491,6 +561,7 @@
   },
   {
     "title": "71",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Don't let fear decide your future.",
       "ES": "No dejes que el miedo decida tu futuro."
@@ -498,6 +569,7 @@
   },
   {
     "title": "72",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Death is certain. Living is the great risk.",
       "ES": "La muerte es segura. Vivir es el gran riesgo."
@@ -505,6 +577,7 @@
   },
   {
     "title": "73",
+    "author": "Autor desconocido",
     "description": {
       "EN": "Life is not measured by the number of breaths, but by the moments that take your breath away.",
       "ES": "La vida no se mide por el número de respiraciones, sino por los momentos que te dejan sin aliento."
@@ -512,6 +585,7 @@
   },
   {
     "title": "74",
+    "author": "Autor desconocido",
     "description": {
       "EN": "All we have is what we have as long as we don't let it go.",
       "ES": "Todo lo que tenemos es lo que nos queda mientras no lo soltemos."
@@ -519,6 +593,7 @@
   },
   {
     "title": "75",
+    "author": "Autor desconocido",
     "description": {
       "EN": "If you want something you've never had, do something you've never done.",
       "ES": "Si buscas algo que nunca tuviste, haz algo que nunca hiciste."
@@ -526,6 +601,7 @@
   },
   {
     "title": "76",
+    "author": "Frank Sinatra",
     "description": {
       "EN": "The best revenge is massive success.",
       "ES": "La mejor venganza es un éxito masivo."
@@ -533,6 +609,7 @@
   },
   {
     "title": "77",
+    "author": "Jack Canfield",
     "description": {
       "EN": "Don't worry about failures, worry about the opportunities you miss when you don't even try.",
       "ES": "No te preocupes por los fracasos, preocúpate por las oportunidades que pierdes cuando ni siquiera lo intentas."
@@ -540,6 +617,7 @@
   },
   {
     "title": "78",
+    "author": "Helen Hayes",
     "description": {
       "EN": "Every expert was once a beginner.",
       "ES": "Cada experto fue una vez un principiante."
@@ -547,6 +625,7 @@
   },
   {
     "title": "79",
+    "author": "Autor desconocido",
     "description": {
       "EN": "You only live once. Make it count.",
       "ES": "La vida es una sola. Hazla que valga la pena."
